@@ -1,1 +1,1 @@
-# Open [Durga Puja Countdown](https://codeabinash.github.io/Durga-Puja-CountDown/)
+# Open [Durga Puja Countdown](https://codeantu.github.io/Durga-Puja-CountDown/)
